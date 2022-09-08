@@ -194,7 +194,7 @@ export const socialMedia = [
 
 export const clients = [
   {
-    id: 'client-1',
+    id: 'client-11',
     logo: airbnb,
   },
   {
